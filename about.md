@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Здесь должна быть информаци обо мне, но я ее еще не написал!
 
-### More Information
+### Больше информации
 
-A place to include any other types of information that you'd like to include about yourself.
+Когда будет время, я обязательно здесь что-нибудь напишу. :)
 
-### Contact me
+Впрочем, если вы по какой-то причине все-таки захотите связаться со мной, то можете воспользоваться контактным емейлом и прислать сообщение.
 
-[email@domain.com](mailto:email@domain.com)
+### Контактный емейл.
+
+[nichitenco@outlook.com](mailto:nichitenco@outlook.com)

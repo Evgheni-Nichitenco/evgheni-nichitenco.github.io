@@ -242,6 +242,17 @@ developer.mozilla.org/ru.docs/Web/Events
 </script>
 ```
 -------------------------------
+```
+Кнопка появления и скрытия модального окна:
+
+https://codepen.io/nichitenco/pen/ZJBagw
+```
+```
+Всплывающее окно для ввода логина:
+
+https://codepen.io/nichitenco/pen/mMOwWe
+```
+
 **var login = popup.querySelector("[name=login]");**
 Поиск внутри элемента с селектором "popap", найти внутри него элемент с именем
 "login" и при присвоить его переменной по имени "login'.
